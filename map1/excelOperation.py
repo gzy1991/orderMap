@@ -34,6 +34,7 @@ for i in range(rowNum):
     if(columnValueList[i] not in nameMap.nameMap):
         print(columnValueList[i])
 
+# 格式
 #出口前10
 #列表有序
 ret=[
